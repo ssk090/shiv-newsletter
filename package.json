@@ -16,7 +16,6 @@
     "request": "^2.88.2"
   },
   "dependencies": {
-    "@mailchimp/mailchimp_marketing": "^3.0.75",
     "body-parser": "^1.20.0"
   }
 }
